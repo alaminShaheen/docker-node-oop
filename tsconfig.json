@@ -4,7 +4,8 @@
 	"lib": [
 	  "ESNext"
 	],
-	"outdir": "./dist"
+	"outDir": "./dist",
+	"sourceMap": true
   },
   "include": [
 	"src"
